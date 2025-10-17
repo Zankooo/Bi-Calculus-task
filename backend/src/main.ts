@@ -26,8 +26,11 @@ async function bootstrap() {
 
   console.log('-------------------------------------------------------------')
 
-  console.log('Swagger/openApi: http://localhost:3000/api');
+  console.log('Prva stran: http://localhost:3000')
   console.log('Json hello pozdrav: http://localhost:3000/hello');
+  console.log('Swagger/openApi: http://localhost:3000/api');
+  
+  
 }
 
 // npm run start:dev <-- komanda za startat backend
