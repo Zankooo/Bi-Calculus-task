@@ -30,6 +30,6 @@ async function bootstrap() {
   console.log('Json hello pozdrav: http://localhost:3000/hello');
 }
 
-
+// run start:dev <-- komanda za startat backend
 
 bootstrap();

@@ -5,7 +5,7 @@ import { Controller, Get, Res } from '@nestjs/common';
 export class AppController {
   @Get('hello')
   getHello() {
-    return { message: 'Hello World!!! jbt sinkooooo' };
+    return { message: 'Hello World!!! jbt sinkooooo najjaciii' };
   }
 
   
