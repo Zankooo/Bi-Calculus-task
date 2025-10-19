@@ -6,7 +6,7 @@ Projekt je razdeljen na backend (Nest.js) in frontend (Angular).
 
 
 ### 0. korak; Node.js
-Predkorak. Če slučajno še nimamo nameščenega node.js na računalniku ga naložimo. Projekt je bil razvit z uporabo Node.js verzija: v22.20.0 Najbolje je, da se uporabi isto verzijo če je le mogoče, bi pa moralo delati tudi na drugih verzijah, če le ni verzija preveč zastarela.
+Predkorak. Če slučajno še nimamo nameščenega Node.js na računalniku ga naložimo. Projekt je bil razvit z uporabo Node.js verzija: v22.20.0 Najbolje je, da se uporabi isto verzijo če je le mogoče, bi pa moralo delati tudi na drugih verzijah, če le ni verzija preveč zastarela.
 
 
 ### 1. Korak; Setup
@@ -34,7 +34,7 @@ V terminalu ko smo backend zagnali in backend laufa, nam v konzolo izpiše vse t
 - Povezava na json sporočilo: http://localhost:3000/hello 
 
 
-## <u>Frontend - koraki za zagon</u></u>
+## <u>Frontend</u>
 
 ### 1. Korak; Setup
 
