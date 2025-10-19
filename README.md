@@ -56,8 +56,8 @@ V terminalu ko smo frontend zagnali, nam v konzolo izpiše na katerem local host
 
 ## <u>Pravilno delovanje obeh delov skupaj</u>
 
-Za pravilno delovanje backenda sledimo navodilom za backend. In dela.
+Za pravilno delovanje backenda sledimo navodilom za backend. 
 
-Za pravilno delovanje frontenda sledimo navodilu za frontend. In dela, le da se ne pokaže rezultat iz REST endpointa (in v Visual Studiu Code v konzoli nam bo javilo, da je napaka pri pridobivanju sporočila)..
+Za pravilno delovanje frontenda sledimo navodilu za frontend, le da se ne pokaže rezultat iz REST endpointa (in v Visual Studiu Code v konzoli nam bo javilo, da je napaka pri pridobivanju sporočila)..
 
 Če pa želimo, tako kot je bilo v navodilu povedano; "da se na frontendu prikaže rezultat, ki ga vrne REST endpoint", potem moramo pa tako frontend kot backend skupaj poganjati, da bo res delalo... Torej v ločenih terminalih poženemo prvo backend potem še frontend in vidimo prikazan rezultat iz backenda na frontnedu na povezavi: http://localhost:4200/ 
