@@ -38,8 +38,8 @@ Tudi tukaj moramo namestiti prvo node_modules. To najlažje naredimo iz terminal
 ```bash
 npm install
 ```
-### Kako zagnati backend?
-Pravtako se postavimo v mapo backend in to naredimo enostavno z komando:
+### Kako zagnati frontend?
+Pravtako se postavimo v mapo frontend in to naredimo enostavno z komando:
 
 ```bash
 ng serve
@@ -51,7 +51,7 @@ npm start
 ```
 
 ### Kako preveriti pravilno delovanje?
-V terminalu ko smo backend zagnali, nam v konzolo izpiše na katerem local host. Torej: http://localhost:4200/ 
+V terminalu ko smo frontend zagnali, nam v konzolo izpiše na katerem local host. Torej: http://localhost:4200/ 
 
 
 ## <u>Pravilno delovanje obeh delov skupaj</u>
